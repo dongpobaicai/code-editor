@@ -1,24 +1,14 @@
-# json-options
+# code-editor
 
-## Project setup
-```
-yarn install
-```
+> 文件编辑器，vue组件生成器，json表单生成器
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
 
-### Compiles and minifies for production
-```
-yarn build
-```
+### 简单文件编辑器
 
-### Lints and fixes files
-```
-yarn lint
-```
+通过配置生成左侧文件目录
+![总览](./public/fileEditor.png)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### vue组件生成器
+
+![总览](./public/vueEditor.png)
